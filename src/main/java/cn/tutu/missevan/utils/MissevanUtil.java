@@ -28,7 +28,7 @@ public class MissevanUtil {
 
     @Test
     public void strToHex() {
-        System.out.println(strToHex("195024530"));
+        System.out.println(strToHex("145891939"));
     }
 
     @Test
